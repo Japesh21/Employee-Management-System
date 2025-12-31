@@ -1,4 +1,4 @@
-# Railway-Employee-Management-System
+# Employee-Management-System
 
 A **web application** to manage railway employee records in real-time, built with **React + Vite**, **Tailwind CSS**, and **MongoDB**.
 
@@ -18,7 +18,6 @@ A **web application** to manage railway employee records in real-time, built wit
 - **Version Control:** Git & GitHub
 
 ## Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Railway-Employee-Management-System.git
